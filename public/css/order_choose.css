@@ -1,0 +1,75 @@
+
+.thumbnail {
+	background:#ff9900;
+}
+
+.thumbnail:hover {
+	background: #ff0000
+}
+
+.thumbnail.active {
+	background: #ff0000;
+}
+
+.thumbnail.active .caption a{
+	background: #ff0000;
+}
+
+.thumbnail img {
+	height: 100px;
+	width: 100px;
+}
+
+.thumbnail img.hotel-top {
+	padding-bottom: 15px;
+	padding-top: 5px;
+}
+
+.thumbnail img.hotel-bot {
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+.caption {
+	position: relative;
+	background:#e5e2da;
+	height: 300px;
+}
+
+.destination-bot {
+	position: absolute;
+	width: 100%;
+	bottom: 10px;
+}
+
+.caption p {
+	color: #ff9900;
+}
+
+.caption h2,h4{
+	color: #ff9900;
+}
+
+.btn-primary {
+	background: #ffcc00;
+	border: 1px solid #ff0000;
+}
+
+.btn-primary:hover {
+	background: #ff0000;
+}
+
+.fa {
+	color: #ffffff;
+	font-size: 25px;
+}
+
+.choose-container {
+}
+
+.choose-wrapper {
+	padding: 20px;
+	margin-top: 50px;
+}
+
+

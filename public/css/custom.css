@@ -1,0 +1,39 @@
+body {
+        background-image: url('../images/seigaiha.png');
+        background-size: cover;
+    }
+
+.navbar {
+	background: #babec4;
+}
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+.nav.navbar-nav li:hover{
+    background: #91969e;
+}
+
+.nav.navbar-nav li a {
+    color: #ffffff;
+}
+.nav.navbar-nav li a:hover {
+    color: #ffffff;
+}
+
+.nav.navbar-nav li.active a{
+    color: #ffffff;
+    background: #696d72;
+}
+
+.nav.navbar-nav li.active a:hover{
+    color: #ffffff;
+}
+
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+

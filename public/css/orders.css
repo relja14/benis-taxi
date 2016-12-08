@@ -1,0 +1,11 @@
+.list-group {
+	color: #fff;
+}
+.item-header {
+	padding:7px 12px;
+	background-color: #4286f4;
+}
+.item-body {
+	background-color: #white;
+	border: 1px solid white;
+}
